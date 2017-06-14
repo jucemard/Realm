@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="br.grupointegrado.jucemard.cadrealm.AddLivroActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+    <item
+        android:title="teste"
+        android:orderInCategory="101" />
+    <item
+        android:title="adicionar livro"
+        android:orderInCategory="102"
+        android:id="@+id/editar" />
+</menu>
